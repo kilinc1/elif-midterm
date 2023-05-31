@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Kreon:wght@700&family=Nunito:wght@300&family=Source+Sans+Pro:ital,wght@0,300;0,700;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Arial' , sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+body{
+    border: 3px dotted rgb(53, 121, 146) ;
+    box-shadow:0 0 25px 5px rgb(255, 123, 0);
+    max-width: 960;
+    margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6{
+ font-family: Arial, Helvetica, sans-serif;   
+}
+
+h1{
+    text-transform: uppercase;
+    letter-spacing: 1rem;
+    font-size: 4.5rem;
+    line-height: 4.5rem;
+    text-indent: 1rem;
+    margin: 0;
+}
